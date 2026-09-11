@@ -1,0 +1,51 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+*.tsbuildinfo
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+.env
+.env*.local
+
+# vercel
+.vercel
+
+# local generated previews / temp
+_*.png
+_*.jpg
+/coins
+
+# raw game sprite sources (processed assets live in public/game)
+/sprites
+
+# leftover ScalpX / FlowX assets — not used on AP Creative
+/public/videos
+/public/game
+/public/hdri
+/public/images
+/public/brand/banners
+/public/flowx-logo.png
+/public/scalpx-icon-192.png
+/public/scalpx-icon-512.png
+/public/scalpx-og.jpg
+/website-capture
+
+/scalpx-brand-assets

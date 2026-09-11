@@ -1,0 +1,16 @@
+{
+  "name": "AP Creative Co",
+  "short_name": "AP",
+  "description": "Creative work built to get businesses seen.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060807",
+  "theme_color": "#060807",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
