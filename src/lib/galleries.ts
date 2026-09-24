@@ -66,7 +66,7 @@ export const serviceGalleries: Record<
       { href: "https://www.ljplumbheat.co.uk", label: "LJ Plumbing & Heating" },
       { href: "https://aanddroofingsolutions.com", label: "A&D Roofing & Construction" },
       { href: "https://www.smh-gas-specialist.co.uk", label: "SMH Gas Specialist" },
-      { href: "https://ap-creative.vercel.app", label: "AP Creative Co" },
+      { href: "https://apcreativeco.co.uk", label: "AP Creative Co" },
     ],
   },
 };

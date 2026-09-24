@@ -7,7 +7,7 @@ export const siteConfig = {
   tagline: "Creative work built to get businesses seen.",
   description:
     "AP Creative Co. Social media, content, design, print, websites, merchandise and events. Founder-led. You talk to Anthony.",
-  url: "https://ap-creative.vercel.app",
+  url: "https://apcreativeco.co.uk",
   email: "Anthony@apcreativeco.co.uk",
   phone: "07809291625",
   phoneDisplay: "07809 291 625",
